@@ -38,12 +38,17 @@ hr{
     color: white;
   }
 /*Mails*/
-
 .mail {
     padding: 5px;
     background-color: #c4c4c4;
 }
   
-  .read {
+.read {
     background-color: #fff;
+}
+/* footer */
+footer {
+    text-align: center;
+    padding-bottom: 120px;
+    font-size: smaller;
 }
