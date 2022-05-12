@@ -23,6 +23,7 @@ header{
 header > img{
     width: 100px;
 }
-header > span{
-    line-height: 50px;
+/*Hr*/
+hr{
+    color: #9984d4;
 }
