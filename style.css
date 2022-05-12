@@ -26,4 +26,24 @@ header > img{
 /*Hr*/
 hr{
     color: #9984d4;
+    margin: 8px;
+    border-style: solid;
+}
+/*Round*/
+.round {
+    padding: 8px;
+    margin: 0 4px;
+    background-color: #9984d4;
+    border-radius: 50%;
+    color: white;
+  }
+/*Mails*/
+
+.mail {
+    padding: 5px;
+    background-color: #c4c4c4;
+}
+  
+  .read {
+    background-color: #fff;
 }
